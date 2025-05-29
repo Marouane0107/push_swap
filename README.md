@@ -256,9 +256,9 @@ The program handles various error cases:
 
 ## 👨‍💻 Author
 
-**Marouane Ouzal** (maouzal)
+**Marouane Aouzal** (maouzal)
 - GitHub: [@Marouane0107](https://github.com/Marouane0107)
-- 42 School Student
+- 1337 School Student
 
 ## 📝 Notes
 

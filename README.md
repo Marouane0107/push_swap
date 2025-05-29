@@ -258,7 +258,7 @@ The program handles various error cases:
 
 **Marouane Aouzal** (maouzal)
 - GitHub: [@Marouane0107](https://github.com/Marouane0107)
-- 1337 School Student
+- UM6P-1337 Coding School Student
 
 ## 📝 Notes
 
